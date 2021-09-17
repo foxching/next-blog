@@ -5,7 +5,7 @@ a nextjs blog from max course on udemy
 ### Landing
 ![dark theme](https://res.cloudinary.com/dtvqrqyqr/image/upload/v1631842715/screenshots/Screenshot_240_omquxq.png)
 
-### All Users
+### Contact
 ![dark theme](https://res.cloudinary.com/dtvqrqyqr/image/upload/v1631842736/screenshots/Screenshot_242_jdryqb.png)
 
 
